@@ -4,6 +4,7 @@
     "downlevel",
     "gobarber",
     "gostack",
+    "middlewares",
     "postgres",
     "readonly",
     "sourcemap",
@@ -12,5 +13,15 @@
     "typeorm",
     "uuidv",
     "varchar"
+  ],
+  "editor.quickSuggestionsDelay": 5,
+  "editor.quickSuggestions": null,
+  "cSpell.ignoreWords": [
+    "default",
+    "editor",
+    "esbenp",
+    "formatter",
+    "prettier",
+    "vscode"
   ]
 }
