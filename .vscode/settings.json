@@ -17,6 +17,8 @@
   "editor.quickSuggestionsDelay": 5,
   "editor.quickSuggestions": null,
   "cSpell.ignoreWords": [
+    "at",
+    "created",
     "default",
     "editor",
     "esbenp",
