@@ -21,7 +21,10 @@
     "editor",
     "esbenp",
     "formatter",
+    "id",
+    "originalname",
     "prettier",
+    "provider",
     "vscode"
   ]
 }
