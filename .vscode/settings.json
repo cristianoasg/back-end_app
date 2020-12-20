@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
     "ESNEXT",
+    "camelcase",
     "downlevel",
     "gobarber",
     "gostack",
@@ -27,6 +28,7 @@
     "originalname",
     "prettier",
     "provider",
+    "user",
     "vscode"
   ]
 }
